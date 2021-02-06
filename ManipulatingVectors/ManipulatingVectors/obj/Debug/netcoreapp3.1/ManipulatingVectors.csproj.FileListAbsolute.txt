@@ -1,0 +1,13 @@
+C:\dev\ManipulatingVectors\ManipulatingVectors\bin\Debug\netcoreapp3.1\ManipulatingVectors.exe
+C:\dev\ManipulatingVectors\ManipulatingVectors\bin\Debug\netcoreapp3.1\ManipulatingVectors.deps.json
+C:\dev\ManipulatingVectors\ManipulatingVectors\bin\Debug\netcoreapp3.1\ManipulatingVectors.runtimeconfig.json
+C:\dev\ManipulatingVectors\ManipulatingVectors\bin\Debug\netcoreapp3.1\ManipulatingVectors.runtimeconfig.dev.json
+C:\dev\ManipulatingVectors\ManipulatingVectors\bin\Debug\netcoreapp3.1\ManipulatingVectors.dll
+C:\dev\ManipulatingVectors\ManipulatingVectors\bin\Debug\netcoreapp3.1\ManipulatingVectors.pdb
+C:\dev\ManipulatingVectors\ManipulatingVectors\obj\Debug\netcoreapp3.1\ManipulatingVectors.csprojAssemblyReference.cache
+C:\dev\ManipulatingVectors\ManipulatingVectors\obj\Debug\netcoreapp3.1\ManipulatingVectors.AssemblyInfoInputs.cache
+C:\dev\ManipulatingVectors\ManipulatingVectors\obj\Debug\netcoreapp3.1\ManipulatingVectors.AssemblyInfo.cs
+C:\dev\ManipulatingVectors\ManipulatingVectors\obj\Debug\netcoreapp3.1\ManipulatingVectors.csproj.CoreCompileInputs.cache
+C:\dev\ManipulatingVectors\ManipulatingVectors\obj\Debug\netcoreapp3.1\ManipulatingVectors.dll
+C:\dev\ManipulatingVectors\ManipulatingVectors\obj\Debug\netcoreapp3.1\ManipulatingVectors.pdb
+C:\dev\ManipulatingVectors\ManipulatingVectors\obj\Debug\netcoreapp3.1\ManipulatingVectors.genruntimeconfig.cache
