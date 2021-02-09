@@ -1,0 +1,13 @@
+C:\dev\MovieTheater\MovieTheater\bin\Debug\netcoreapp3.1\MovieTheater.exe
+C:\dev\MovieTheater\MovieTheater\bin\Debug\netcoreapp3.1\MovieTheater.deps.json
+C:\dev\MovieTheater\MovieTheater\bin\Debug\netcoreapp3.1\MovieTheater.runtimeconfig.json
+C:\dev\MovieTheater\MovieTheater\bin\Debug\netcoreapp3.1\MovieTheater.runtimeconfig.dev.json
+C:\dev\MovieTheater\MovieTheater\bin\Debug\netcoreapp3.1\MovieTheater.dll
+C:\dev\MovieTheater\MovieTheater\bin\Debug\netcoreapp3.1\MovieTheater.pdb
+C:\dev\MovieTheater\MovieTheater\obj\Debug\netcoreapp3.1\MovieTheater.csprojAssemblyReference.cache
+C:\dev\MovieTheater\MovieTheater\obj\Debug\netcoreapp3.1\MovieTheater.AssemblyInfoInputs.cache
+C:\dev\MovieTheater\MovieTheater\obj\Debug\netcoreapp3.1\MovieTheater.AssemblyInfo.cs
+C:\dev\MovieTheater\MovieTheater\obj\Debug\netcoreapp3.1\MovieTheater.csproj.CoreCompileInputs.cache
+C:\dev\MovieTheater\MovieTheater\obj\Debug\netcoreapp3.1\MovieTheater.dll
+C:\dev\MovieTheater\MovieTheater\obj\Debug\netcoreapp3.1\MovieTheater.pdb
+C:\dev\MovieTheater\MovieTheater\obj\Debug\netcoreapp3.1\MovieTheater.genruntimeconfig.cache
